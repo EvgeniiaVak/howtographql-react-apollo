@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# GraphQL Client with Apollo and React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a study project based on [React + Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/).
+The only difference yet is usage of functional React components.
 
 ## Available Scripts
 
